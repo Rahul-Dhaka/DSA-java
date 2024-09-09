@@ -1,5 +1,5 @@
 import java.lang.reflect.Array;
-import java.util.*;
+import java.util.Arrays;
 
 public class StringExample {
     public static void main(String[] args) {
